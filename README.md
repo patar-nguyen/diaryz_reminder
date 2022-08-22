@@ -15,8 +15,12 @@ Install dependencies with npm install.
 `npx react-native run-ios`
 
 ## Screenshots
-Adding a reminder
-![Add]()
 
-Completing a reminder
-![Complete]()
+## Adding a reminder
+<img src="https://github.com/patar-nguyen/diaryz_reminder/blob/master/images/Create.png?raw=true" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
+
+## Completing a reminder
+<img src="https://github.com/patar-nguyen/diaryz_reminder/blob/master/images/Display.png?raw=true" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
+
+## Demo
+![Demo](https://github.com/patar-nguyen/diaryz_reminder/blob/master/images/demo.gif?raw=true)
